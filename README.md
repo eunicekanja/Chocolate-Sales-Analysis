@@ -33,4 +33,3 @@ The dataset includes:
 - DAX (Time Intelligence Functions)
 - Data Modeling
 - SQL (Data Preparation / Querying)
-- Excel
